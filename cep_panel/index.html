@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>SafeFrame AI</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <main class="app">
+
+        <header class="header">
+            <div>
+                <h1>SAFEFRAME <span>AI</span></h1>
+                <p>AI SMART VIDEO REFRAMING</p>
+            </div>
+
+            <div class="version">v1.0</div>
+        </header>
+
+        <section class="section">
+
+            <label>VIDEO INPUT</label>
+
+            <button id="selectVideo" class="upload">
+                <span class="upload-icon">＋</span>
+                <strong>Select Video Footage</strong>
+                <small>MP4 / MOV / AVI</small>
+            </button>
+
+            <p id="videoName" class="filename">
+                No video selected
+            </p>
+
+        </section>
+
+        <section class="section">
+
+            <label>OUTPUT FORMAT</label>
+
+            <div class="formats">
+
+                <button class="format active" data-format="9:16">
+                    <span class="shape vertical"></span>
+                    9:16
+                </button>
+
+                <button class="format" data-format="1:1">
+                    <span class="shape square"></span>
+                    1:1
+                </button>
+
+                <button class="format" data-format="4:5">
+                    <span class="shape portrait"></span>
+                    4:5
+                </button>
+
+                <button class="format" data-format="16:9">
+                    <span class="shape landscape"></span>
+                    16:9
+                </button>
+
+            </div>
+
+        </section>
+
+        <section class="section">
+
+            <div class="setting-heading">
+                <label>TRACKING SMOOTHNESS</label>
+                <strong id="smoothValue">65%</strong>
+            </div>
+
+            <input
+                type="range"
+                id="smoothness"
+                min="0"
+                max="100"
+                value="65"
+            >
+
+            <small class="hint">
+                Lower = Responsive | Higher = Smoother
+            </small>
+
+        </section>
+
+        <section class="status-card">
+
+            <div class="status-heading">
+                <strong>AI ENGINE STATUS</strong>
+                <span id="engineStatus" class="status offline">
+                    Checking...
+                </span>
+            </div>
+
+            <p id="statusMessage">
+                Connecting to Python Engine...
+            </p>
+
+        </section>
+
+        <button id="analyzeButton" class="primary" disabled>
+            ANALYZE & REFRAME
+        </button>
+
+        <div class="progress-container">
+            <div id="progressBar"></div>
+        </div>
+
+        <p id="resultMessage" class="result"></p>
+
+        <footer>
+            SAFEFRAME AI · POWERED BY PYTHON
+        </footer>
+
+    </main>
+
+    <script src="js/main.js"></script>
+
+</body>
+</html>

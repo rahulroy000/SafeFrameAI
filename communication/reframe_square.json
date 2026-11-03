@@ -1,0 +1,2180 @@
+{
+    "project": "SafeFrame AI",
+    "version": "0.3.0",
+    "source": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 50.0
+    },
+    "output": {
+        "format": "1:1",
+        "width": 1080,
+        "height": 1080
+    },
+    "tracking": {
+        "selected_track_id": 1,
+        "subject_samples": 144
+    },
+    "keyframes": [
+        {
+            "frame": 0,
+            "time": 0.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 545.0,
+                "y": 556.0
+            },
+            "crop": {
+                "x": 0,
+                "y": 145.6,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 15,
+            "time": 0.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 544.3,
+                "y": 553.55
+            },
+            "crop": {
+                "x": 0,
+                "y": 143.15,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 30,
+            "time": 0.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 543.84,
+                "y": 551.61
+            },
+            "crop": {
+                "x": 0,
+                "y": 141.21,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 45,
+            "time": 0.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 542.15,
+                "y": 551.39
+            },
+            "crop": {
+                "x": 0,
+                "y": 140.99,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 60,
+            "time": 1.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 543.5,
+                "y": 552.31
+            },
+            "crop": {
+                "x": 0,
+                "y": 141.91,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 75,
+            "time": 1.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 545.07,
+                "y": 551.5
+            },
+            "crop": {
+                "x": 0,
+                "y": 141.1,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 90,
+            "time": 1.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 549.6,
+                "y": 550.27
+            },
+            "crop": {
+                "x": 0,
+                "y": 139.87,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 105,
+            "time": 2.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 551.14,
+                "y": 547.73
+            },
+            "crop": {
+                "x": 0,
+                "y": 137.33,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 120,
+            "time": 2.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 550.74,
+                "y": 547.82
+            },
+            "crop": {
+                "x": 0,
+                "y": 137.42,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 135,
+            "time": 2.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 551.88,
+                "y": 545.09
+            },
+            "crop": {
+                "x": 0,
+                "y": 134.69,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 150,
+            "time": 3.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 551.92,
+                "y": 542.96
+            },
+            "crop": {
+                "x": 0,
+                "y": 132.56,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 165,
+            "time": 3.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 553.0,
+                "y": 542.62
+            },
+            "crop": {
+                "x": 0,
+                "y": 132.22,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 180,
+            "time": 3.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 561.05,
+                "y": 547.65
+            },
+            "crop": {
+                "x": 0,
+                "y": 137.25,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 195,
+            "time": 3.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 565.23,
+                "y": 551.62
+            },
+            "crop": {
+                "x": 0,
+                "y": 141.22,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 210,
+            "time": 4.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 564.1,
+                "y": 553.16
+            },
+            "crop": {
+                "x": 0,
+                "y": 142.76,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 225,
+            "time": 4.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 557.07,
+                "y": 553.45
+            },
+            "crop": {
+                "x": 0,
+                "y": 143.05,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 240,
+            "time": 4.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 554.59,
+                "y": 553.64
+            },
+            "crop": {
+                "x": 0,
+                "y": 143.24,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 255,
+            "time": 5.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 564.89,
+                "y": 556.22
+            },
+            "crop": {
+                "x": 0,
+                "y": 145.82,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 270,
+            "time": 5.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 577.18,
+                "y": 561.74
+            },
+            "crop": {
+                "x": 0,
+                "y": 151.34,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 285,
+            "time": 5.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 583.41,
+                "y": 566.38
+            },
+            "crop": {
+                "x": 0,
+                "y": 155.98,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 300,
+            "time": 6.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 582.22,
+                "y": 570.8
+            },
+            "crop": {
+                "x": 0,
+                "y": 160.4,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 315,
+            "time": 6.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 573.39,
+                "y": 571.92
+            },
+            "crop": {
+                "x": 0,
+                "y": 161.52,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 330,
+            "time": 6.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 562.76,
+                "y": 570.9
+            },
+            "crop": {
+                "x": 0,
+                "y": 160.5,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 345,
+            "time": 6.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 544.99,
+                "y": 558.33
+            },
+            "crop": {
+                "x": 0,
+                "y": 147.93,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 360,
+            "time": 7.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 516.64,
+                "y": 540.72
+            },
+            "crop": {
+                "x": 0,
+                "y": 130.32,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 375,
+            "time": 7.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 482.82,
+                "y": 524.72
+            },
+            "crop": {
+                "x": 0,
+                "y": 114.32,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 390,
+            "time": 7.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 452.43,
+                "y": 509.77
+            },
+            "crop": {
+                "x": 0,
+                "y": 99.37,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 405,
+            "time": 8.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 419.73,
+                "y": 503.55
+            },
+            "crop": {
+                "x": 0,
+                "y": 93.15,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 420,
+            "time": 8.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 385.88,
+                "y": 514.21
+            },
+            "crop": {
+                "x": 0,
+                "y": 103.81,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 435,
+            "time": 8.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 375.77,
+                "y": 514.48
+            },
+            "crop": {
+                "x": 0,
+                "y": 104.08,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 450,
+            "time": 9.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 364.3,
+                "y": 512.21
+            },
+            "crop": {
+                "x": 0,
+                "y": 101.81,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 465,
+            "time": 9.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 344.94,
+                "y": 515.99
+            },
+            "crop": {
+                "x": 0,
+                "y": 105.59,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 480,
+            "time": 9.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 331.31,
+                "y": 518.44
+            },
+            "crop": {
+                "x": 0,
+                "y": 108.04,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 495,
+            "time": 9.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 334.7,
+                "y": 509.54
+            },
+            "crop": {
+                "x": 0,
+                "y": 99.14,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 510,
+            "time": 10.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 358.96,
+                "y": 488.35
+            },
+            "crop": {
+                "x": 0,
+                "y": 77.95,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 525,
+            "time": 10.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 395.37,
+                "y": 461.28
+            },
+            "crop": {
+                "x": 0,
+                "y": 50.88,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 540,
+            "time": 10.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 424.99,
+                "y": 439.83
+            },
+            "crop": {
+                "x": 0,
+                "y": 29.43,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 555,
+            "time": 11.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 435.14,
+                "y": 440.24
+            },
+            "crop": {
+                "x": 0,
+                "y": 29.84,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 570,
+            "time": 11.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 443.84,
+                "y": 437.36
+            },
+            "crop": {
+                "x": 0,
+                "y": 26.96,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 585,
+            "time": 11.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 439.35,
+                "y": 433.03
+            },
+            "crop": {
+                "x": 0,
+                "y": 22.63,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 600,
+            "time": 12.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 428.03,
+                "y": 430.22
+            },
+            "crop": {
+                "x": 0,
+                "y": 19.82,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 615,
+            "time": 12.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 429.07,
+                "y": 430.49
+            },
+            "crop": {
+                "x": 0,
+                "y": 20.09,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 630,
+            "time": 12.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 424.49,
+                "y": 434.52
+            },
+            "crop": {
+                "x": 0,
+                "y": 24.12,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 645,
+            "time": 12.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 421.17,
+                "y": 442.74
+            },
+            "crop": {
+                "x": 0,
+                "y": 32.34,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 660,
+            "time": 13.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 437.21,
+                "y": 447.03
+            },
+            "crop": {
+                "x": 0,
+                "y": 36.63,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 675,
+            "time": 13.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 463.04,
+                "y": 463.47
+            },
+            "crop": {
+                "x": 0,
+                "y": 53.07,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 690,
+            "time": 13.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 488.92,
+                "y": 489.21
+            },
+            "crop": {
+                "x": 0,
+                "y": 78.81,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 705,
+            "time": 14.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 510.65,
+                "y": 506.98
+            },
+            "crop": {
+                "x": 0,
+                "y": 96.58,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 720,
+            "time": 14.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 523.72,
+                "y": 514.69
+            },
+            "crop": {
+                "x": 0,
+                "y": 104.29,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 735,
+            "time": 14.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 534.67,
+                "y": 507.45
+            },
+            "crop": {
+                "x": 0,
+                "y": 97.05,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 750,
+            "time": 15.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 542.14,
+                "y": 492.24
+            },
+            "crop": {
+                "x": 0,
+                "y": 81.84,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 765,
+            "time": 15.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 544.19,
+                "y": 482.36
+            },
+            "crop": {
+                "x": 0,
+                "y": 71.96,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 780,
+            "time": 15.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 546.92,
+                "y": 475.58
+            },
+            "crop": {
+                "x": 0,
+                "y": 65.18,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 795,
+            "time": 15.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 546.25,
+                "y": 469.43
+            },
+            "crop": {
+                "x": 0,
+                "y": 59.03,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 810,
+            "time": 16.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 538.11,
+                "y": 464.03
+            },
+            "crop": {
+                "x": 0,
+                "y": 53.63,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 825,
+            "time": 16.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 532.82,
+                "y": 463.32
+            },
+            "crop": {
+                "x": 0,
+                "y": 52.92,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 840,
+            "time": 16.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 531.13,
+                "y": 461.11
+            },
+            "crop": {
+                "x": 0,
+                "y": 50.71,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 855,
+            "time": 17.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 538.09,
+                "y": 460.37
+            },
+            "crop": {
+                "x": 0,
+                "y": 49.97,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 870,
+            "time": 17.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 538.76,
+                "y": 458.14
+            },
+            "crop": {
+                "x": 0,
+                "y": 47.74,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 885,
+            "time": 17.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 538.49,
+                "y": 456.34
+            },
+            "crop": {
+                "x": 0,
+                "y": 45.94,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 900,
+            "time": 18.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 538.32,
+                "y": 453.77
+            },
+            "crop": {
+                "x": 0,
+                "y": 43.37,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 915,
+            "time": 18.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 537.86,
+                "y": 454.55
+            },
+            "crop": {
+                "x": 0,
+                "y": 44.15,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 930,
+            "time": 18.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 536.86,
+                "y": 453.31
+            },
+            "crop": {
+                "x": 0,
+                "y": 42.91,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 945,
+            "time": 18.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 534.11,
+                "y": 452.5
+            },
+            "crop": {
+                "x": 0,
+                "y": 42.1,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 960,
+            "time": 19.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 533.02,
+                "y": 454.78
+            },
+            "crop": {
+                "x": 0,
+                "y": 44.38,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 975,
+            "time": 19.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 530.56,
+                "y": 455.55
+            },
+            "crop": {
+                "x": 0,
+                "y": 45.15,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 990,
+            "time": 19.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 529.32,
+                "y": 455.01
+            },
+            "crop": {
+                "x": 0,
+                "y": 44.61,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1005,
+            "time": 20.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 525.01,
+                "y": 456.76
+            },
+            "crop": {
+                "x": 0,
+                "y": 46.36,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1020,
+            "time": 20.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 519.75,
+                "y": 456.49
+            },
+            "crop": {
+                "x": 0,
+                "y": 46.09,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1035,
+            "time": 20.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 517.04,
+                "y": 459.47
+            },
+            "crop": {
+                "x": 0,
+                "y": 49.07,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1050,
+            "time": 21.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 517.03,
+                "y": 463.86
+            },
+            "crop": {
+                "x": 0,
+                "y": 53.46,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1065,
+            "time": 21.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 517.37,
+                "y": 463.21
+            },
+            "crop": {
+                "x": 0,
+                "y": 52.81,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1080,
+            "time": 21.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 517.24,
+                "y": 466.63
+            },
+            "crop": {
+                "x": 0,
+                "y": 56.23,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1095,
+            "time": 21.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 515.4,
+                "y": 468.51
+            },
+            "crop": {
+                "x": 0,
+                "y": 58.11,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1110,
+            "time": 22.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 514.21,
+                "y": 471.13
+            },
+            "crop": {
+                "x": 0,
+                "y": 60.73,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1125,
+            "time": 22.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 512.39,
+                "y": 473.19
+            },
+            "crop": {
+                "x": 0,
+                "y": 62.79,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1140,
+            "time": 22.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 511.55,
+                "y": 476.62
+            },
+            "crop": {
+                "x": 0,
+                "y": 66.22,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1155,
+            "time": 23.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 509.96,
+                "y": 477.1
+            },
+            "crop": {
+                "x": 0,
+                "y": 66.7,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1170,
+            "time": 23.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 508.92,
+                "y": 478.12
+            },
+            "crop": {
+                "x": 0,
+                "y": 67.72,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1185,
+            "time": 23.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 508.25,
+                "y": 479.83
+            },
+            "crop": {
+                "x": 0,
+                "y": 69.43,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1200,
+            "time": 24.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 507.46,
+                "y": 480.94
+            },
+            "crop": {
+                "x": 0,
+                "y": 70.54,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1215,
+            "time": 24.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 508.7,
+                "y": 483.41
+            },
+            "crop": {
+                "x": 0,
+                "y": 73.01,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1230,
+            "time": 24.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 523.16,
+                "y": 480.82
+            },
+            "crop": {
+                "x": 0,
+                "y": 70.42,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1245,
+            "time": 24.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 533.95,
+                "y": 489.63
+            },
+            "crop": {
+                "x": 0,
+                "y": 79.23,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1260,
+            "time": 25.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 535.72,
+                "y": 496.76
+            },
+            "crop": {
+                "x": 0,
+                "y": 86.36,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1275,
+            "time": 25.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 535.47,
+                "y": 503.14
+            },
+            "crop": {
+                "x": 0,
+                "y": 92.74,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1290,
+            "time": 25.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 536.0,
+                "y": 504.49
+            },
+            "crop": {
+                "x": 0,
+                "y": 94.09,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1305,
+            "time": 26.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 534.6,
+                "y": 500.12
+            },
+            "crop": {
+                "x": 0,
+                "y": 89.72,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1320,
+            "time": 26.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 533.34,
+                "y": 491.33
+            },
+            "crop": {
+                "x": 0,
+                "y": 80.93,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1335,
+            "time": 26.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 532.52,
+                "y": 485.61
+            },
+            "crop": {
+                "x": 0,
+                "y": 75.21,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1350,
+            "time": 27.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 529.89,
+                "y": 482.25
+            },
+            "crop": {
+                "x": 0,
+                "y": 71.85,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1365,
+            "time": 27.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 527.48,
+                "y": 475.51
+            },
+            "crop": {
+                "x": 0,
+                "y": 65.11,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1380,
+            "time": 27.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 525.91,
+                "y": 471.83
+            },
+            "crop": {
+                "x": 0,
+                "y": 61.43,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1395,
+            "time": 27.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 524.54,
+                "y": 470.84
+            },
+            "crop": {
+                "x": 0,
+                "y": 60.44,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1410,
+            "time": 28.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 523.3,
+                "y": 468.1
+            },
+            "crop": {
+                "x": 0,
+                "y": 57.7,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1425,
+            "time": 28.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 519.0,
+                "y": 472.61
+            },
+            "crop": {
+                "x": 0,
+                "y": 62.21,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1440,
+            "time": 28.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 521.1,
+                "y": 474.15
+            },
+            "crop": {
+                "x": 0,
+                "y": 63.75,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1455,
+            "time": 29.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 526.31,
+                "y": 475.85
+            },
+            "crop": {
+                "x": 0,
+                "y": 65.45,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1470,
+            "time": 29.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 531.45,
+                "y": 471.0
+            },
+            "crop": {
+                "x": 0,
+                "y": 60.6,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1485,
+            "time": 29.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 529.19,
+                "y": 472.05
+            },
+            "crop": {
+                "x": 0,
+                "y": 61.65,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1500,
+            "time": 30.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 526.68,
+                "y": 472.38
+            },
+            "crop": {
+                "x": 0,
+                "y": 61.98,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1515,
+            "time": 30.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 524.69,
+                "y": 477.5
+            },
+            "crop": {
+                "x": 0,
+                "y": 67.1,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1530,
+            "time": 30.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 522.0,
+                "y": 481.17
+            },
+            "crop": {
+                "x": 0,
+                "y": 70.77,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1545,
+            "time": 30.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 516.75,
+                "y": 482.51
+            },
+            "crop": {
+                "x": 0,
+                "y": 72.11,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1560,
+            "time": 31.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 513.34,
+                "y": 484.08
+            },
+            "crop": {
+                "x": 0,
+                "y": 73.68,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1575,
+            "time": 31.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 510.42,
+                "y": 484.75
+            },
+            "crop": {
+                "x": 0,
+                "y": 74.35,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1590,
+            "time": 31.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 505.72,
+                "y": 485.19
+            },
+            "crop": {
+                "x": 0,
+                "y": 74.79,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1605,
+            "time": 32.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 501.62,
+                "y": 485.82
+            },
+            "crop": {
+                "x": 0,
+                "y": 75.42,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1620,
+            "time": 32.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 500.0,
+                "y": 489.04
+            },
+            "crop": {
+                "x": 0,
+                "y": 78.64,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1635,
+            "time": 32.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 498.25,
+                "y": 490.07
+            },
+            "crop": {
+                "x": 0,
+                "y": 79.67,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1650,
+            "time": 33.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 495.36,
+                "y": 490.4
+            },
+            "crop": {
+                "x": 0,
+                "y": 80.0,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1665,
+            "time": 33.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 492.79,
+                "y": 492.36
+            },
+            "crop": {
+                "x": 0,
+                "y": 81.96,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1680,
+            "time": 33.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 491.11,
+                "y": 493.28
+            },
+            "crop": {
+                "x": 0,
+                "y": 82.88,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1695,
+            "time": 33.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 493.52,
+                "y": 493.53
+            },
+            "crop": {
+                "x": 0,
+                "y": 83.13,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1710,
+            "time": 34.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 494.74,
+                "y": 491.95
+            },
+            "crop": {
+                "x": 0,
+                "y": 81.55,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1725,
+            "time": 34.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 494.83,
+                "y": 490.92
+            },
+            "crop": {
+                "x": 0,
+                "y": 80.52,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1740,
+            "time": 34.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 497.69,
+                "y": 484.65
+            },
+            "crop": {
+                "x": 0,
+                "y": 74.25,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1755,
+            "time": 35.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 501.3,
+                "y": 474.27
+            },
+            "crop": {
+                "x": 0,
+                "y": 63.87,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1770,
+            "time": 35.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 500.84,
+                "y": 465.43
+            },
+            "crop": {
+                "x": 0,
+                "y": 55.03,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1785,
+            "time": 35.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 499.15,
+                "y": 462.48
+            },
+            "crop": {
+                "x": 0,
+                "y": 52.08,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1800,
+            "time": 36.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 498.75,
+                "y": 464.06
+            },
+            "crop": {
+                "x": 0,
+                "y": 53.66,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1815,
+            "time": 36.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 497.44,
+                "y": 468.94
+            },
+            "crop": {
+                "x": 0,
+                "y": 58.54,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1830,
+            "time": 36.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 496.93,
+                "y": 473.16
+            },
+            "crop": {
+                "x": 0,
+                "y": 62.76,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1845,
+            "time": 36.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 495.56,
+                "y": 477.3
+            },
+            "crop": {
+                "x": 0,
+                "y": 66.9,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1860,
+            "time": 37.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 496.06,
+                "y": 478.6
+            },
+            "crop": {
+                "x": 0,
+                "y": 68.2,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1875,
+            "time": 37.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 493.59,
+                "y": 480.84
+            },
+            "crop": {
+                "x": 0,
+                "y": 70.44,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1890,
+            "time": 37.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 493.73,
+                "y": 481.6
+            },
+            "crop": {
+                "x": 0,
+                "y": 71.2,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1905,
+            "time": 38.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 493.48,
+                "y": 482.79
+            },
+            "crop": {
+                "x": 0,
+                "y": 72.39,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1920,
+            "time": 38.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 492.96,
+                "y": 483.21
+            },
+            "crop": {
+                "x": 0,
+                "y": 72.81,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1935,
+            "time": 38.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 492.97,
+                "y": 482.44
+            },
+            "crop": {
+                "x": 0,
+                "y": 72.04,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1950,
+            "time": 39.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 492.28,
+                "y": 482.98
+            },
+            "crop": {
+                "x": 0,
+                "y": 72.58,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1965,
+            "time": 39.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 492.18,
+                "y": 482.64
+            },
+            "crop": {
+                "x": 0,
+                "y": 72.24,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1980,
+            "time": 39.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 493.52,
+                "y": 485.22
+            },
+            "crop": {
+                "x": 0,
+                "y": 74.82,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 1995,
+            "time": 39.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 491.59,
+                "y": 490.39
+            },
+            "crop": {
+                "x": 0,
+                "y": 79.99,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2010,
+            "time": 40.2,
+            "track_id": 1,
+            "subject_center": {
+                "x": 506.08,
+                "y": 488.85
+            },
+            "crop": {
+                "x": 0,
+                "y": 78.45,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2025,
+            "time": 40.5,
+            "track_id": 1,
+            "subject_center": {
+                "x": 512.7,
+                "y": 489.95
+            },
+            "crop": {
+                "x": 0,
+                "y": 79.55,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2040,
+            "time": 40.8,
+            "track_id": 1,
+            "subject_center": {
+                "x": 519.81,
+                "y": 491.37
+            },
+            "crop": {
+                "x": 0,
+                "y": 80.97,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2055,
+            "time": 41.1,
+            "track_id": 1,
+            "subject_center": {
+                "x": 529.67,
+                "y": 491.94
+            },
+            "crop": {
+                "x": 0,
+                "y": 81.54,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2070,
+            "time": 41.4,
+            "track_id": 1,
+            "subject_center": {
+                "x": 534.34,
+                "y": 492.66
+            },
+            "crop": {
+                "x": 0,
+                "y": 82.26,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2085,
+            "time": 41.7,
+            "track_id": 1,
+            "subject_center": {
+                "x": 538.77,
+                "y": 492.08
+            },
+            "crop": {
+                "x": 0,
+                "y": 81.68,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2100,
+            "time": 42.0,
+            "track_id": 1,
+            "subject_center": {
+                "x": 539.2,
+                "y": 493.45
+            },
+            "crop": {
+                "x": 0,
+                "y": 83.05,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2115,
+            "time": 42.3,
+            "track_id": 1,
+            "subject_center": {
+                "x": 535.98,
+                "y": 494.69
+            },
+            "crop": {
+                "x": 0,
+                "y": 84.29,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2130,
+            "time": 42.6,
+            "track_id": 1,
+            "subject_center": {
+                "x": 537.04,
+                "y": 495.85
+            },
+            "crop": {
+                "x": 0,
+                "y": 85.45,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        },
+        {
+            "frame": 2145,
+            "time": 42.9,
+            "track_id": 1,
+            "subject_center": {
+                "x": 539.82,
+                "y": 498.0
+            },
+            "crop": {
+                "x": 0,
+                "y": 87.6,
+                "width": 1080.0,
+                "height": 1080.0
+            }
+        }
+    ]
+}
